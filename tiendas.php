@@ -9,13 +9,8 @@
 </head>
 
 <body>
-    <style>
-    * {
-        background-color: red;
-    }
-    </style>
     <h1>
-        NUESTRAS TIENDAS
+        BIENVENIDOS A NUESTRAS TIENDAS
     </h1>
 </body>
 
