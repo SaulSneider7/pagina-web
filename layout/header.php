@@ -46,13 +46,13 @@
                             <a class="nav-link" href="tiendas.php">Nuestras Tiendas</a>
                         </li>
                     </ul>
-                    <!-- <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <form class="d-flex">
                             <input class="form-control me-2" type="search" placeholder="Buscar Producto"
                                 aria-label="Search">
                             <button class="btn btn-outline-danger" type="submit">Buscar</button>
                         </form>
-                    </ul> -->
+                    </ul>
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button"
