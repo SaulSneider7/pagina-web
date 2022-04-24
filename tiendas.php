@@ -10,10 +10,6 @@
 
 <body>
     <style>
-    * {
-        background-color: red;
-    }
-    </style>
     <h1>
         NUESTRAS TIENDAS
     </h1>
