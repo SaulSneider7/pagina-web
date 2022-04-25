@@ -1,6 +1,6 @@
 <?php include('./layout/header.php') ?>
 <main>
-    <div class="container">
+    <div>
         <h1>Mision</h1>
         <p>Nuestra mision es elevlar continuamente el nivel de experiencia del cliente mediante nuestra pagina para
             ayudar a
