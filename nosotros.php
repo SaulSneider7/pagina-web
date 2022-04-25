@@ -6,7 +6,7 @@
             maxime corporis consequatur aliquid cumque doloribus ad, esse necessitatibus! Quo ducimus ipsum, vitae
             explicabo animi fugiat.</p>
         <h1>Vision</h1>
-        
+        <p>Nuestra Vision es ser la empresa mas centrada en el cliente, para contruir un lugar donde las personas puedan buscar y decubrir cualquier cosa que deseen comprar en linea.</p>
     </div>
 
 </main>
