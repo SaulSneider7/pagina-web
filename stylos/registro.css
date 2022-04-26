@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+	
+}
+
+form {
+	padding: 30px 20px;
+	background-color: #e8e7eea6;
+	margin: 15%;
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 1px;
+	border-radius: 30px;
+}
+
+
+body{
+	background: linear-gradient(to right, rgb(0, 0, 0), rgb(255, 255, 255));
+	width: 100%;
+	height:100%;
+	background-size: cover;
+
+	color:white;
+	
+}
+
+
+.btnsaul{
+    margin: 25px;
+}
+.card-title{
+	text-align: center;
+}
