@@ -1,7 +1,13 @@
 <?php
+    $contraseña="";
+    $usuario="root";
+    $nombredb="dbg1v2";
 
-$conexion=mysqli_connect("localhost","root","","dbg1v2");
-mysqli_set_charset($conexion, "utf8");
-
+    try{
+        $db=new PDO('mysql:host=localhost;dbname=' .$nombredb,$usuario,$contraseña);
+        // echo "<script>alert('La conexion se realizo correctamente')</script>";
+    } catch (Exception $e) {
+        echo "<script>alert('La conexion fallo')</script>".$e->getMessage();
+    }
 ?>
 
